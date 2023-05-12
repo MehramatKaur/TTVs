@@ -11,3 +11,12 @@ This tool can be used to provide observing windows for the planning of future fo
 
 The predicted transit times and their uncertainties can be downloaded from the web page.
 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Light Curves
+   TTVs
+   Parameter Settings
+  
