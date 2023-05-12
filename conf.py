@@ -23,9 +23,9 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'Eureka!'
-copyright = '2022, Eureka! pipeline developers'
-author = 'Eureka! pipeline developers'
+project = 'TTVs'
+copyright = '2023, TTVs pipeline developers'
+author = 'TTVs pipeline developers'
 
 version = __version__
 
@@ -40,7 +40,6 @@ extensions = ['sphinx_rtd_theme', 'sphinx.ext.todo', 'sphinx.ext.viewcode',
 
 master_doc = 'index'
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
