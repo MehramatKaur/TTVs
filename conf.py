@@ -25,7 +25,7 @@ project = 'TTVs'
 copyright = '2023, TTVs pipeline developers'
 author = 'TTVs pipeline developers'
 
-version = __version__
+
 
 # -- General configuration ---------------------------------------------------
 
