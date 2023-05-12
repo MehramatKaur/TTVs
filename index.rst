@@ -18,5 +18,5 @@ The predicted transit times and their uncertainties can be downloaded from the w
 
    Light Curves
    TTVs
-   Parameter Settings
+   Parameter Settings 
   
