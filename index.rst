@@ -9,4 +9,5 @@ This will calculate and combine the transit light curves from all TRAPPIST-1 pla
 
 This tool can be used to provide observing windows for the planning of future follow-up observations of this system.
 
+The predicted transit times and their uncertainties can be downloaded from the web page.
 
